@@ -1,0 +1,12 @@
+{
+  "name": "github-actions-core-pack-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/n4sust1m/github-actions-core-pack-test.git",
+  "author": "nasustim <mitsuhibino@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
